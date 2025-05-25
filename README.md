@@ -27,7 +27,9 @@ npm run dev
 ```
 Acesse: http://localhost:3000
 
+### 3. Via Vercel:
 
+#### Acesse: https://desafio-front-end-cassi.vercel.app/
 ---
 
 - O projeto foi desenvolvido com React e Next.js.
